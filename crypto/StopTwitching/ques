@@ -1,0 +1,8 @@
+Ryan’s eye often starts twitching for no particular reason, but after he solves a problem, it usually goes away. This time he came across this problem:
+
+69 + 420 = 49154
+
+It was perplexing but then he realised that all the 3 terms in the original equation were actually bitwise xor’ed with a binary number and this was the resulting equation. Furthermore, the binary number is deduced after a key is chosen. For example, if key = “asdfg”, then the binary number = “0000110011001000011000111”.
+
+Can you help Ryan find the key that was used. Flag Format = BITSCTF{key}
+
